@@ -2,7 +2,7 @@
 
 # Understading Network Diagram 
 The network is a three-switch topology using PVST+ (Per-VLAN Spanning Tree Plus) with VLAN 10 and VLAN 20. Redundancy and loop prevention are achieved using Spanning Tree and an EtherChannel between the lower switches.
-
+Before moving forword understad the diagram  https://github.com/Gyaseenhakro/Networking/blob/main/Switches%20Diagram.png
 
 # Please Note Down That
 'enable' password is "enable123"
